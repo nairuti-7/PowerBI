@@ -28,4 +28,4 @@ This Power BI dashboard presents a comprehensive summary of global mortality tre
 
 > *(Optional: Only include if you uploaded the .pbix file)*
 
-- [Download WorldMortalityDashboard.pbix](PowerBI/WorldMortalityDashboard.pbix)
+https://github.com/nairuti-7/your-repo-name/raw/main/WorldMortalityDashboard.pbix
