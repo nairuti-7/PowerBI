@@ -29,3 +29,10 @@ This Power BI dashboard presents a comprehensive summary of global mortality tre
 > *(Optional: Only include if you uploaded the .pbix file)*
 
 - [Download WorldMortalityDashboard.pbix](WorldMortalityDashboard.pbix)
+
+---
+
+## 📄 View Dashboard Preview 
+
+[View Dashboard Summary PDF](WorldMortalityDashboard.pdf)
+
